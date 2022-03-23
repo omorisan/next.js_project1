@@ -9,9 +9,14 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "date-utils": "^1.2.21",
+    "firebase": "^9.6.8",
     "next": "12.1.0",
     "react": "17.0.2",
-    "react-dom": "17.0.2"
+    "react-dom": "17.0.2",
+    "serverless-mysql": "^1.5.4",
+    "sql-template-strings": "^2.2.2",
+    "swr": "^1.2.2"
   },
   "devDependencies": {
     "eslint": "8.11.0",
